@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 85735ca5ad99cab4c8c9f402de22f473
+  m_SerializeEntries:
+  - m_GUID: 10628ba3209434e4d96595c92c82d990
+    m_Address: Assets/GameAssets/Prefabs/UI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs-UI
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1ebbd2613445fd44ebb5b0bf9baf9e11
+    m_Address: Assets/GameAssets/Prefabs/KK
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs-KK
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 549c26b33b2f74243a78049ab1ae0dc0
+    m_Address: Assets/GameAssets/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a70c5eb5a5ae7024ab53428c223458a2
+    m_Address: Assets/GameAssets/Material
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Material
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c8b3e089316abab42a5ac09c171bc4bf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5c83bd230593c624996572dcd0181d54, type: 2}
+    - {fileID: 11400000, guid: 6aa636e36bc4402489bfe232e58ba2f0, type: 2}
